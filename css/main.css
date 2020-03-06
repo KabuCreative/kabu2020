@@ -211,14 +211,6 @@ header {
 header .container {
   padding-top: 70px;
   padding-bottom: 40px;
-  position: relative;
-}
-
-.rocket {
-  position: absolute;
-  width: 270px;
-  top: 80px;
-  right: -100px;
 }
 
 .logo {
