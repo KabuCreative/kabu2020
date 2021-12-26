@@ -235,6 +235,7 @@ header .button {
 }
 
 /* showcase */
+
 .pypi {
   background: #f9f9f9;
   position: relative;
@@ -309,6 +310,7 @@ blockquote {
   margin: 40px 0 0;
   border-left: 2px dotted #aaa;
   padding: 0 0 0 30px;
+  font-size: 18px;
 }
 
 blockquote footer span {
